@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+  <body>
+    <header>
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
+    </header>
+    {{ content }}
+  </body>
+</html>

@@ -1,0 +1,10 @@
+title: 整理自己
+email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jilen.github.io" # the base hostname & protocol for your site
+twitter_username: jilen
+github_username:  jilen
+
+# Build settings
+markdown: kramdown
+exclude: [vendor]
