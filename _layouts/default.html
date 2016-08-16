@@ -3,7 +3,10 @@
   {% include head.html %}
   <body>
     <header>
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
+      <div>
+        <h1 class="site-title" href="{{ site.baseurl }}/">{{ site.title | escape }}</h1>
+        <p class="subtitle">Organize knowledges <span class="marginnote">Jilen - A navie programmer</span></p>
+      </div>
     </header>
     {{ content }}
   </body>

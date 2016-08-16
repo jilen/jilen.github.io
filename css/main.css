@@ -1,21 +1,24 @@
-svg {
-  height: 24px;
-  weight: 24px;
-}
-header .title-box{
-  position: relative;
-}
-.site-title {
-  font-weight: 400;
-  margin-top: 4rem;
-  margin-bottom: 1.5rem;
-  font-size: 3.2rem;
-  line-height: 1;
-  display: inline-block;
-  vertical-align: middle;
+body {
 }
 
-.site-nav {
-  float: right;
-  right: 0;
+header {
+  margin-bottom: 3rem;
+}
+header > div > * {
+  display: inline-block;
+  text-align:left;
+}
+
+header p.subtitle {
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+
+
+a:link,
+a,
+a:hover {
+  text-decoration: none;
+  Background: none;
 }
