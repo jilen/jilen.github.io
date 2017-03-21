@@ -1,10 +1,8 @@
-title: 整理自己
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jilen.github.io" # the base hostname & protocol for your site
+title: Be Simple
+email: jilen.zhang@gmail.com
+baseurl: ""
+url: "http://jilen.github.io"
 twitter_username: jilen
 github_username:  jilen
-
-# Build settings
 markdown: kramdown
 exclude: [vendor]
