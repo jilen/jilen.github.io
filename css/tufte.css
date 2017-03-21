@@ -71,11 +71,13 @@ h3 {
      line-height: 1; }
 
 p.subtitle {
-             margin-top: 1rem;
-             margin-bottom: 1rem;
-             font-size: 1.8rem;
-             display: block;
-             line-height: 1; }
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  display: block;
+  line-height: 1;
+  font-style: italic;
+}
 
 .numeral { font-family: et-book-roman-old-style; }
 
