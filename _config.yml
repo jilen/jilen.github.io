@@ -1,8 +1,0 @@
-title: Jilen
-email: jilen.zhang@gmail.com
-baseurl: ""
-url: "http://jilen.github.io"
-twitter_username: jilen
-github_username:  jilen
-markdown: kramdown
-exclude: [vendor]
